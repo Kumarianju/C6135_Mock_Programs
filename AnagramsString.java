@@ -43,4 +43,9 @@ public class AnagramsString {
 	            System.out.println("The two strings are not anagram of each other.");
 	    }   
 	}
+/*
+*Output:
+*       The two strings are anagram of each other.
+*
+*/
 
